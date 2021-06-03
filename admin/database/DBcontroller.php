@@ -3,9 +3,9 @@ class DBcontroller
 {
 	
 	protected $host ='localhost';
-	protected $user='root';
-	protected $password="";
-	protected $database= "zodiaczone";
+	protected $user='marketi1_admin';
+	protected $password="Mohammed@53";
+	protected $database= "marketi1_zodiaczone";
 
 	public $con=null;
 public function __construct(){
