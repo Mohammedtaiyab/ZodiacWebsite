@@ -3,8 +3,8 @@ class DBcontroller
 {
 	
 	protected $host ='localhost';
-	protected $user='marketi1_admin';
-	protected $password="Mohammed@53";
+		protected $user='marketi1_OJO';
+	protected $password="Marketing@52";
 	protected $database= "marketi1_zodiaczone";
 
 	public $con=null;
